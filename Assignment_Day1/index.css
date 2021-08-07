@@ -1,6 +1,7 @@
 .my-container
 {
     background-color: aqua;
+    height:100vh;
 }
 .block
 {
