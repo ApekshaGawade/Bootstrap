@@ -1,0 +1,10 @@
+.my-container
+{
+    background-color: aqua;
+}
+.block
+{
+    background-color:red;
+    height: 150px;
+    margin-right: 30px;
+}
